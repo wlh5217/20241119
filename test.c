@@ -3,5 +3,6 @@ int function(){
 	
 	printf("aaaa\n");
 	printf("aaaa\n");
+	printf("update version	C\n");
 	return 0;
 }
