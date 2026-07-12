@@ -1,5 +1,7 @@
 #include<stdio.h>
-int main(){
-	printf("testing..\n");
+int function(){
+	
+	printf("aaaa\n");
+	printf("aaaa\n");
 	return 0;
 }
